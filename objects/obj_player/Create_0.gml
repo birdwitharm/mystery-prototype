@@ -6,3 +6,6 @@ can_move = true;
 // to check if the player is moving
 moving = false;
 
+// check if player is touching wall
+touch_wall = false;
+

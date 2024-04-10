@@ -1,1 +1,1 @@
-draw_text(x, y, "Press SPACE to start.");
+draw_text(x, y, "Press SPACE to start");

@@ -19,6 +19,7 @@
   "ResourceOrderSettings": [
     {"name":"obj_rabbit_text","order":5,"path":"objects/obj_rabbit_text/obj_rabbit_text.yy",},
     {"name":"spr_instr_text","order":3,"path":"sprites/spr_instr_text/spr_instr_text.yy",},
+    {"name":"obj_rabbit","order":7,"path":"objects/obj_rabbit/obj_rabbit.yy",},
     {"name":"spr_start_bg","order":1,"path":"sprites/spr_start_bg/spr_start_bg.yy",},
     {"name":"obj_player","order":1,"path":"objects/obj_player/obj_player.yy",},
     {"name":"obj_rm_change","order":2,"path":"objects/obj_rm_change/obj_rm_change.yy",},
@@ -29,5 +30,6 @@
     {"name":"obj_map_bg","order":6,"path":"objects/obj_map_bg/obj_map_bg.yy",},
     {"name":"rm_map","order":1,"path":"rooms/rm_map/rm_map.yy",},
     {"name":"obj_wall","order":3,"path":"objects/obj_wall/obj_wall.yy",},
+    {"name":"spr_rabbit","order":6,"path":"sprites/spr_rabbit/spr_rabbit.yy",},
   ],
 }

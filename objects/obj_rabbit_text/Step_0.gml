@@ -1,1 +1,1 @@
-draw_text_ext(x+22, y+22, text, 20, 200);
+draw_text(x, y, text);
