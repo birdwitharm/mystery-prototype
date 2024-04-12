@@ -1,4 +1,4 @@
-text = "Hello Baby. It's time to go to bed." 
+text = "Placeholder" 
 
 function Activate_Text(new_text)
 {

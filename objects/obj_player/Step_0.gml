@@ -56,3 +56,9 @@ if moving
 	image_speed = 1;
 	
 } else if !moving { image_speed = 0; }
+
+// putting on pjs
+if (obj_pjs.clicked == true)
+{
+	visible = false;
+}
