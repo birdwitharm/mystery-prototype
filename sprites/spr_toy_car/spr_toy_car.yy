@@ -2,10 +2,10 @@
   "resourceType": "GMSprite",
   "resourceVersion": "1.0",
   "name": "spr_toy_car",
-  "bbox_bottom": 149,
+  "bbox_bottom": 123,
   "bbox_left": 0,
   "bbox_right": 149,
-  "bbox_top": 0,
+  "bbox_top": 30,
   "bboxMode": 0,
   "collisionKind": 1,
   "collisionTolerance": 0,
@@ -13,7 +13,7 @@
   "edgeFiltering": false,
   "For3D": false,
   "frames": [
-    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"962131d3-b8c7-4bdd-a41d-1f97fc6db1fd",},
+    {"resourceType":"GMSpriteFrame","resourceVersion":"1.1","name":"173af342-b5f7-4bd1-a3a2-8735d2e3bccb",},
   ],
   "gridX": 0,
   "gridY": 0,
@@ -54,7 +54,7 @@
     "timeUnits": 1,
     "tracks": [
       {"resourceType":"GMSpriteFramesTrack","resourceVersion":"1.0","name":"frames","builtinName":0,"events":[],"inheritsTrackColour":true,"interpolation":1,"isCreationTrack":false,"keyframes":{"resourceType":"KeyframeStore<SpriteFrameKeyframe>","resourceVersion":"1.0","Keyframes":[
-            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"962131d3-b8c7-4bdd-a41d-1f97fc6db1fd","path":"sprites/spr_toy_car/spr_toy_car.yy",},},},"Disabled":false,"id":"74b31056-d2f2-4af8-832a-144a956f0db6","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
+            {"resourceType":"Keyframe<SpriteFrameKeyframe>","resourceVersion":"1.0","Channels":{"0":{"resourceType":"SpriteFrameKeyframe","resourceVersion":"1.0","Id":{"name":"173af342-b5f7-4bd1-a3a2-8735d2e3bccb","path":"sprites/spr_toy_car/spr_toy_car.yy",},},},"Disabled":false,"id":"a5f68200-c32f-48d6-b059-2c19b0ff0e45","IsCreationKey":false,"Key":0.0,"Length":1.0,"Stretch":false,},
           ],},"modifiers":[],"spriteId":null,"trackColour":0,"tracks":[],"traits":0,},
     ],
     "visibleRange": null,

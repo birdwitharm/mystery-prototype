@@ -1,13 +1,13 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_unicorn",
+  "name": "obj_sister",
   "eventList": [],
   "managed": true,
   "overriddenProperties": [],
   "parent": {
-    "name": "Stills",
-    "path": "folders/Objects/Stills.yy",
+    "name": "Objects",
+    "path": "folders/Objects.yy",
   },
   "parentObjectId": null,
   "persistent": false,
@@ -26,8 +26,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_unicorn",
-    "path": "sprites/spr_unicorn/spr_unicorn.yy",
+    "name": "spr_sister",
+    "path": "sprites/spr_sister/spr_sister.yy",
   },
   "spriteMaskId": null,
   "visible": true,

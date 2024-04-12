@@ -6,5 +6,6 @@ if (distance_to_object(obj_player) < 100 &&
 	mouse_check_button_pressed(1))
 	{
 		clicked = true;
-		visible = false;
 	}
+	
+if (clicked) visible = false;

@@ -67,6 +67,8 @@
     {"id":{"name":"spr_pjs","path":"sprites/spr_pjs/spr_pjs.yy",},},
     {"id":{"name":"obj_blocks","path":"objects/obj_blocks/obj_blocks.yy",},},
     {"id":{"name":"spr_blocks","path":"sprites/spr_blocks/spr_blocks.yy",},},
+    {"id":{"name":"obj_sister","path":"objects/obj_sister/obj_sister.yy",},},
+    {"id":{"name":"spr_sister","path":"sprites/spr_sister/spr_sister.yy",},},
     {"id":{"name":"obj_player_pjs","path":"objects/obj_player_pjs/obj_player_pjs.yy",},},
     {"id":{"name":"spr_rabbit","path":"sprites/spr_rabbit/spr_rabbit.yy",},},
     {"id":{"name":"rm_start","path":"rooms/rm_start/rm_start.yy",},},
