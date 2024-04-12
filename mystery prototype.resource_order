@@ -19,7 +19,8 @@
   ],
   "ResourceOrderSettings": [
     {"name":"obj_rabbit_text","order":5,"path":"objects/obj_rabbit_text/obj_rabbit_text.yy",},
-    {"name":"spr_instr_text","order":3,"path":"sprites/spr_instr_text/spr_instr_text.yy",},
+    {"name":"spr_text_box","order":3,"path":"sprites/spr_text_box/spr_text_box.yy",},
+    {"name":"obj_sister_text","order":18,"path":"objects/obj_sister_text/obj_sister_text.yy",},
     {"name":"obj_cloud2","order":1,"path":"objects/obj_cloud2/obj_cloud2.yy",},
     {"name":"spr_toy_car","order":11,"path":"sprites/spr_toy_car/spr_toy_car.yy",},
     {"name":"spr_cabinet","order":9,"path":"sprites/spr_cabinet/spr_cabinet.yy",},

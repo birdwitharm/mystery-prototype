@@ -36,7 +36,8 @@
   },
   "resources": [
     {"id":{"name":"obj_rabbit_text","path":"objects/obj_rabbit_text/obj_rabbit_text.yy",},},
-    {"id":{"name":"spr_instr_text","path":"sprites/spr_instr_text/spr_instr_text.yy",},},
+    {"id":{"name":"spr_text_box","path":"sprites/spr_text_box/spr_text_box.yy",},},
+    {"id":{"name":"obj_sister_text","path":"objects/obj_sister_text/obj_sister_text.yy",},},
     {"id":{"name":"obj_cloud2","path":"objects/obj_cloud2/obj_cloud2.yy",},},
     {"id":{"name":"obj_cloud1","path":"objects/obj_cloud1/obj_cloud1.yy",},},
     {"id":{"name":"spr_thing","path":"sprites/spr_thing/spr_thing.yy",},},

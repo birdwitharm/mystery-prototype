@@ -1,7 +1,7 @@
 {
   "resourceType": "GMObject",
   "resourceVersion": "1.0",
-  "name": "obj_sister",
+  "name": "obj_sister_text",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
@@ -29,9 +29,9 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_sister",
-    "path": "sprites/spr_sister/spr_sister.yy",
+    "name": "spr_text_box",
+    "path": "sprites/spr_text_box/spr_text_box.yy",
   },
   "spriteMaskId": null,
-  "visible": true,
+  "visible": false,
 }

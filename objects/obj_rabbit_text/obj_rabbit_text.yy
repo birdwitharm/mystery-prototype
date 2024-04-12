@@ -4,7 +4,6 @@
   "name": "obj_rabbit_text",
   "eventList": [
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":0,"isDnD":false,},
-    {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":false,},
     {"resourceType":"GMEvent","resourceVersion":"1.0","name":"","collisionObjectId":null,"eventNum":0,"eventType":8,"isDnD":false,},
   ],
   "managed": true,
@@ -30,8 +29,8 @@
   "properties": [],
   "solid": false,
   "spriteId": {
-    "name": "spr_instr_text",
-    "path": "sprites/spr_instr_text/spr_instr_text.yy",
+    "name": "spr_text_box",
+    "path": "sprites/spr_text_box/spr_text_box.yy",
   },
   "spriteMaskId": null,
   "visible": false,
