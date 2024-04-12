@@ -11,12 +11,9 @@ sister_text_5 = "My necklace? Ah, I lost it somewhere downstairs. It... belonged
 sister_text_6 = "You should go to bed soon. It's getting late."; 
 
 // text change variables, dont look at this its so ugly 
-to_text2 = false;
+count = 0;
 
-to_text3 = false;
+// have necklace dialogue
+necklace_text = "You found it? Baby, you're incredible! Thanks kid.";
 
-to_text4 = false;
-
-to_text5 = false;
-
-to_text6 = false; 
+have_necklace = false;

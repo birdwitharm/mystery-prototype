@@ -62,3 +62,6 @@ if (obj_pjs.clicked == true)
 {
 	visible = false;
 }
+
+// getting in bed
+if (obj_crib.in_bed == true) visible = false;

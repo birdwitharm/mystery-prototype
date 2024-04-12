@@ -1,0 +1,1 @@
+have_necklace = false;
